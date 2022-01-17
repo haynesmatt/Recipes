@@ -1,2 +1,2 @@
-# odin-recpies
+# odin-recipes
 Simple Recipe Book
