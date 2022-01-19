@@ -1,0 +1,45 @@
+h1,
+h2,
+h3,
+h4 {
+    font-type: "Georgia", serif;
+    color: #403234;
+}
+
+body {
+    background-color: #cfd2cd;
+    text-align: center;
+}
+
+p {
+    color: #fbfbf2;
+    font-family: "Trebuchet MS", sans-serif
+}
+
+ul {
+    text-align: center;
+    list-style: inside;
+    color: #fbfbf2;
+    font-family: "Trebuchet MS", sans-serif
+  }
+
+ol {
+    text-align: left;
+    color: #fbfbf2;
+    font-family: "Trebuchet MS", sans-serif
+  }
+
+.size {
+    height: auto;
+    width: 300px;
+}
+
+.big {
+    font-size: 40px;
+}
+
+em,
+strong {
+    color: #a6a2a2;
+    font-size: 17px;
+}
